@@ -12,3 +12,5 @@ So far I have the basic functionality and styling setup but am running into trou
 Screen recording of current functionality. While I can capture the Blog Content it is not storing:
 
 <iframe src="https://drive.google.com/file/d/145AeP7pML0eOTfL5vKspu1ZoWaMJ5WGn/preview" width="640" height="480"></iframe>
+
+I've decided for now to add pseudo code of my outstanding acceptance criteria. I will refactor them to where I believe they shoudld go within my code
